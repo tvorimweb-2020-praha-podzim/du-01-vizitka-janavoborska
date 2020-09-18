@@ -1,0 +1,47 @@
+body {
+    color: #282425;
+    background-color: #c3cfe7;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    line-height: 1,5;
+    margin: 0;
+}
+
+section,
+footer {
+    padding: 50px 15%;
+    overflow: auto;
+    }
+
+h1 {
+    font-size: 150px;
+    text-align: center;
+    color: darkolivegreen;
+    margin: 0;
+    font-style: italic;
+}
+
+h2 {
+    font-style: italic;
+}
+
+.hlavicka {
+    padding: 150px 30px;
+    background-image: url(pozadi_hlavicky.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.foto-omne {
+    border-radius: 50%;
+}
+
+.kontakt {
+    font-style: italic;
+}
+
+.paticka {
+    text-align: center;
+    background-color: whitesmoke;
+}
