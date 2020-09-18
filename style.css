@@ -35,6 +35,13 @@ h2 {
 
 .foto-omne {
     border-radius: 50%;
+    width: 100px;
+    float:  left;
+    margin: 0 30px 30px 0;
+}
+
+#linkedin {
+    clear: left;
 }
 
 .kontakt {
@@ -44,4 +51,8 @@ h2 {
 .paticka {
     text-align: center;
     background-color: whitesmoke;
+}
+
+.omne {
+    background-color: #e0e8f7;
 }
